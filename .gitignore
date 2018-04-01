@@ -1,0 +1,12 @@
+.Python
+dist/
+MANIFEST
+*.manifest
+logs/
+.env
+.venv
+venv/
+.vscode/
+__pycache__/
+app.db
+
